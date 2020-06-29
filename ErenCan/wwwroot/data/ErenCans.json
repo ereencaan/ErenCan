@@ -1,0 +1,175 @@
+{
+	"ErenCanInfo": {
+		{
+			"ContactInfo": [
+				{
+					"Name": "Eren",
+					"Surname": "Can",
+					"JobTitle": "Computer Engineer",
+					"Mail": "ereencaan@gmail.com",
+					"Phone": "+90 552 556 7066",
+					"Address": "Altintepe Neighborhood Bakan Street. Sabanci Complex I/1 Apartment Building. No:1 Maltepe/Istanbul",
+					"BirthDate": "07.07.1994",
+					"BirthPlace": "Denizli",
+					"img": ""
+				}
+			],
+			"CoverLetters": [
+				{
+					"imgTurkish": "",
+					"imgEnglish": ""
+				}
+			],
+			"Cv": [
+				{
+					"imgTurkish": "",
+					"imgEnglish": ""
+				}
+			],
+			"DevelopedProjects": [
+				{
+					"ProjectName": "",
+					"Language": "",
+					"Platform": "",
+					"Year": ""
+				}
+			],
+			"Education": [
+				{
+					"UniversityName": "Girne American University",
+					"Faculty": "Engineering Faculty",
+					"Department": "Computer Engineering",
+					"Start": "09.2012",
+					"End": "06.2019",
+					"GraduationType": "Bachelor's Degree",
+					"Language": "English"
+				}
+			],
+			"Experiences": [
+				{
+					"Title": "HTML CSS Specialist & Graphic Designer",
+					"CompanyName": "TravelPlan",
+					"City": "Girne / North Cyprus",
+					"CompanySector": "Tourism",
+					"StartingDate": "11.2018",
+					"EndDate": "03.2019",
+					"JobType": "Part Time"
+				},
+				{
+					"Title": "Software Developer",
+					"CompanyName": "GigaByte Ltd.",
+					"City": "Lefkosa / North Cyprus",
+					"CompanySector": "Information Technologies",
+					"StartingDate": "06.2019",
+					"EndDate": "08.2019",
+					"JobType": "Intern"
+				},
+				{
+					"Title": "Software Developer",
+					"CompanyName": "GigaByte Ltd.",
+					"City": "Lefkosa / North Cyprus",
+					"CompanySector": "Information Technologies",
+					"StartingDate": "08.2019",
+					"EndDate": "10.2019",
+					"JobType": "Full Time"
+				},
+				{
+					"Title": "SAP PI/PO Consultant & Java Developer",
+					"CompanyName": "MDP Group",
+					"City": "Istanbul / Turkey",
+					"CompanySector": "Information Technologies & Consulting",
+					"StartingDate": "11.2019",
+					"EndDate": "Still Working",
+					"JobType": "Full Time"
+				}
+			],
+			"Languages": [
+				{
+					"ForeignLanguages": "English",
+					"Level": "9/10"
+				},
+				{
+					"ForeignLanguages": "German",
+					"Level": "2/10"
+				}
+			],
+			"PrivateInfo": [
+				{
+					"Gender": "Male",
+					"Nationality": "Turkish",
+					"ExpectedSalary": "4.000 - 5.000",
+					"DriverLicense": "Class B and A",
+					"MilitaryServices": "Postponed to 31.12.2021"
+				}
+			],
+			"References": [
+				{
+					"Name": "Ali",
+					"Surname": "Haydar",
+					"Company": "Girne American University",
+					"Title": "Chancellor",
+					"Phone": "+90 392 650 2000",
+					"Mail": "ahaydar@gau.edu.tr"
+				},
+				{
+					"Name": "Bugce",
+					"Surname": "Eminaga",
+					"Company": "Girne American University",
+					"Title": "Academic Member",
+					"Phone": "+90 392 650 2000",
+					"Mail": "bugceeminaga@gau.edu.tr"
+				},
+				{
+					"Name": "Nasser",
+					"Surname": "Lotfi",
+					"Company": "Girne American University",
+					"Title": "Senior Software Engineer",
+					"Phone": "+90 392 650 2000",
+					"Mail": "nasserlotfi@gau.edu.tr"
+				},
+				{
+					"Name": "Burcu",
+					"Surname": "Eyisoy Dalkıran",
+					"Company": "Ministry of National Education - European Union and Foreign Relations",
+					"Title": "General Manager",
+					"Phone": "+90 312 413 2002",
+					"Mail": "nasserlotfi@gau.edu.tr"
+				}
+			],
+			"SeminarsCoursesCertificates": [
+				{
+					"CertificateName": "The Degree of Bachelor of Science In Computer Engineering",
+					"Institution": "Girne American University - Girne / Cyprus",
+					"Year": "2019"
+				},
+				{
+					"CertificateName": "Cambridge ESOL Entry Level Certificate",
+					"Institution": "ESOL International - Canterbury / United Kingdom",
+					"Year": "2013"
+				},
+				{
+					"CertificateName": "International Symposium on Engineering Artificial Intelligence and Applications Held",
+					"Institution": "Girne American University - Girne / Cyprus",
+					"Year": "2016"
+				},
+				{
+					"CertificateName": "Software and Database",
+					"Institution": "Bilgeadam Academy",
+					"Year": "2017"
+				}
+			],
+			"Skills": [
+				{
+					"Skill": "",
+					"Level": ""
+				}
+			],
+			"Summary": [
+				{
+					"MySummary": "I studied Computer Engineering at Girne American University. I finished my classes 2019 May. After completing my internship, I graduated and worked at the company where I did my internship. During my courses I worked in different software languages such as C, C ++, C #, Python and Java Script. Recently, I am developing some commercial websites, mobile applications, desktop applications using C #. Thanks to the projects I've worked on, I've learned a lot about developing ASP.NET, MVC, WebAPI and WinForm applications. I also used Pyhton software language during my graduation projects. I also trust myself in database management and procedure creation. I gained a lot of experience in algorithm analysis and project planning.I am working on the Selenium Automation Development in my free times for improving myself about it.I am currently working as a SAP PI/PO colsuntant & java developer and freelancer at the same time.Although I don't have much work experience, I have been working professionally in the design and development departments for nearly 3 years."
+				}
+			]
+		}
+	}
+}
+
